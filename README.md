@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/wyattowalsh/wyattowalsh/raw/main/assets/cover.gif)
-<h1 align="center">Hi 👋, I'm [@ApurboSaha-cse](https://github.com/ApurboSaha-cse) (Apurbo Saha)</h1>
-<h3 align="center">I'm a software developer from [Rajshahi, Bangladesh. 🇧🇩](https://goo.gl/maps/U1H6bHT7XYhkK6tk7) I have been building apps, APIs and tools with different teams and organizations. 🌎</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/ApurboSaha-cse">@ApurboSaha-cse</a> Apurbo Saha</h1>
+<h3 align="center">I'm a software developer from <a href="https://goo.gl/maps/U1H6bHT7XYhkK6tk7">Rajshahi, Bangladesh. 🇧🇩</a> I have been building apps, APIs and tools with different teams and organizations. 🌎</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1686433422/catalog/1667644019651674112/rj9mqd5nht0knid5jngx.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurbosaha-cse&label=Profile%20views&color=0e75b6&style=flat" alt="apurbosaha-cse" /> </p>
